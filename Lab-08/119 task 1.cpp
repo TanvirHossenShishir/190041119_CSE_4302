@@ -2,7 +2,7 @@
 using namespace std;
 
 class Account {
-protected:
+private:
     int accountNo;
     string accountName;
     float balance;
